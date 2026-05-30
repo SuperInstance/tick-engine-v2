@@ -1,0 +1,8 @@
+[package]
+name = "tick-engine-v2"
+version = "0.1.0"
+edition = "2021"
+description = "The Grand Pattern's temporal engine — wake/REM/deep-sleep cycle clock"
+license = "MIT"
+
+[dependencies]
